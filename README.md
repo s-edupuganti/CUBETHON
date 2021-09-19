@@ -5,7 +5,7 @@ Updated version of CUBETHON from Brackey's
 * die
 * Jump Physics (most priority)
 * Different platforms
-* More shitty levels 
+* More levels 
 * Endless (least priority)
 
 ### Bugs
